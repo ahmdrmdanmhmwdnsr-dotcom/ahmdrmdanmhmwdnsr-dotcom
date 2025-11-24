@@ -1,12 +1,18 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
 <h1 align="left">Hi 👋! My name is Ahmed Ramadan</h1>
 
 ###
 
-<h2 align="left">Software Engineer</h2>
+<h3 align="left">language</h3>
 
 ###
 
-<h3 align="left">language</h3>
+<h2 align="left">Software Engineer</h2>
 
 ###
 
